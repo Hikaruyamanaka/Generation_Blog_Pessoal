@@ -20,10 +20,11 @@ Funcionalidade 3: Postagem: Para criar uma postagem a pessoa deve relacioná-la 
 💻Tecnologias utilizadas
 Nesse projeto foram usadas as seguintes tecnologias:
 
+- IDE Eclipse;
 - Linguagem de programação Java;
 - Testes no Postman;
 - JUnit;
-- SpringBoot;
+- Spring Boot;
 - Hibernate;
 - JPA;
 - MySql;
